@@ -30,7 +30,7 @@ $ pkg install python
 $ pkg install git
 $ pip install requests
 $ pip install bs4
-$ git clone https://github.com/333303/dmbf
+$ git clone https://github.com/333303/333303
  
 ```
 #### ⇨  Menjalankan Script
